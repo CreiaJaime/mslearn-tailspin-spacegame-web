@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "ReportGenerator": {
+      "version": "5.2.0"
+    }
+  }
+}
